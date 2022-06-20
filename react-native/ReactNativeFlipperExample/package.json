@@ -20,7 +20,7 @@
     "babel-jest": "^28.1.1",
     "jest": "^28.1.1",
     "metro-react-native-babel-preset": "^0.71.0",
-    "react-test-renderer": "18.1.0",
+    "react-test-renderer": "18.2.0",
     "relative-deps": "^1.0.7"
   },
   "jest": {
